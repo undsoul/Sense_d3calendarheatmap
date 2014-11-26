@@ -1,0 +1,9 @@
+{
+    "name": "d3 CalendarHeatmap",
+    "description": "CalendarHeatmap",
+    "icon": "extension",
+    "type": "visualization",
+    "version": "1",
+	"preview": "preview.png",
+    "author": "brz"
+}
